@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsOnlineMM.Web", "NewsOnlineMM.Web\NewsOnlineMM.Web.csproj", "{896671B3-E95A-4E46-B600-B0DD44714E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsOnlineMM.Web.Tests", "NewsOnlineMM.Web.Tests\NewsOnlineMM.Web.Tests.csproj", "{BFB0A717-4920-4F6A-90E7-4350BCBF434D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896671B3-E95A-4E46-B600-B0DD44714E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896671B3-E95A-4E46-B600-B0DD44714E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896671B3-E95A-4E46-B600-B0DD44714E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896671B3-E95A-4E46-B600-B0DD44714E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB0A717-4920-4F6A-90E7-4350BCBF434D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB0A717-4920-4F6A-90E7-4350BCBF434D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB0A717-4920-4F6A-90E7-4350BCBF434D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB0A717-4920-4F6A-90E7-4350BCBF434D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
