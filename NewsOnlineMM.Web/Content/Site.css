@@ -22,3 +22,28 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*********************************************************/
+
+.navbar-inverse {
+    /*border-top: 1px solid #2d444f;
+    border-bottom: 1px solid #2d444f;
+    background: url('img/nav_bg.gif') repeat-x 0 100% #666e73;
+    padding: 0 30px;*/
+    background-color: #191970;
+}
+
+.navbar-inverse .navbar-brand {
+  color:#fff0f5;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color:#fff0f5;
+}
+
+.nav > li.dropdown.open { position: static; }
+.nav > li.dropdown.open .dropdown-menu {display:table; width: 100%; text-align: center; left:0; right:0; }
+.dropdown-menu>li { display: table-cell; }
+
+
+
